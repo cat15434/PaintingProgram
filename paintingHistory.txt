@@ -8,3 +8,12 @@ Figure Painting:100:332:
 Mood Painting:100:183:
 Figure Painting:100:211:
 Small Painting:50:158:
+Mood Painting:100:258:
+Small Painting:50:120:
+Figure Painting:100:432:
+Mood Painting:100:290:
+Medium Painting:75:238:
+Mood Painting:100:264:
+Figure Painting:100:386:
+Medium Painting:75:272:
+Mood Painting:100:273:
